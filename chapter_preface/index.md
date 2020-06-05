@@ -1,24 +1,48 @@
-# Preface
+# Vorwort
+
+Erst vor einigen Jahren, gab es noch kaum Deep-Learning-Wissenschaftler, welche in großen Firmen und Startups intelligente Produkte und Dienstleistungen entwickelt haben.
 
 Just a few years ago, there were no legions of deep learning scientists
 developing intelligent products and services at major companies and startups.
+
 When the youngest among us (the authors) entered the field,
 machine learning did not command headlines in daily newspapers.
+
+Als die jüngsten unter uns (den Autoren) angefangen haben,
+hat maschinelles Lernen noch nicht die Überschriften der täglichen Nachrichten bestimmt.
+
 Our parents had no idea what machine learning was,
 let alone why we might prefer it to a career in medicine or law.
+
+Unsere Eltern hatte keine Idee davon, was maschinelles Lernen ist,
+geschweige denn davon, dass wir es gegenüber einer Karriere in Medizin oder Rechtswissenschaften bevorzugen würden.
+
 Machine learning was a forward-looking academic discipline
 with a narrow set of real-world applications.
+
+Maschinelles Lernen war eine futuristische akademische Disziplin,
+mit einer geringen Anzahl von Anwendungen in der realen Welt.
+
 And those applications, e.g., speech recognition and computer vision,
 required so much domain knowledge that they were often regarded
 as separate areas entirely for which machine learning was one small component.
+
+Und diese Anwendungen, also, Spracherkennung und Computer Vision,
+brauchen so viel themenbezogenes Wissen, dass sie oft
+als separate Fachbereiche angesehen wurden in denen maschinelles Lernen eine kleine Komponente war.
+
 Neural networks then, the antecedents of the deep learning models
 that we focus on in this book, were regarded as outmoded tools.
 
+Zu der Zeit wurden neuronale Netzwerke, die Vorläufer der Deep-Learning-Modelle auf die wir uns in diesem Buch konzentrieren, als aus der Mode geratene Werkzeuge gesehen.
 
 In just the past five years, deep learning has taken the world by surprise,
 driving rapid progress in fields as diverse as computer vision,
 natural language processing, automatic speech recognition,
 reinforcement learning, and statistical modeling.
+
+In nur diesen vergangenen Fünf Jahren, hat Deep-Learning die Welt \[gesucht ist eine andere Uebersetzung als "Im Sturm erorbert", da diese sehr kriegerisch waere]
+
 With these advances in hand, we can now build cars that drive themselves
 with more autonomy than ever before (and less autonomy
 than some companies might have you believe),
