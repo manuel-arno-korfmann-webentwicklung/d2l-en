@@ -55,6 +55,7 @@ helping people dig out from oppressively large inboxes,
 and software agents that dominate the world's best humans
 at board games like Go, a feat once thought to be decades away.
 
+*it diesen Fortschritten in der Hand  können wir Autos bauen,die sich selbst fahren.Mit mehr Atonomieals jemals zuvor(und weniger Atonmie als mancheFirmen dir dass glauben lassen wollen.
 
 Already, these tools exert ever-wider impacts on industry and society,
 changing the way movies are made, diseases are diagnosed,
